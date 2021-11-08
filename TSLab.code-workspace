@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "tslab"
+		},
+		{
+			"path": "kitchensink1/C15-JSKitchenSink"
+		},
+		{
+			"path": "dbizness/C15-DiceyBusiness"
+		},
+		{
+			"path": "ConsoleResume/C15-JS-Console-Resume"
+		}
+	],
+	"settings": {}
+}
